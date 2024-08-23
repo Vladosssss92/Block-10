@@ -10,4 +10,4 @@ Person.prototype.watchMovie = function (movie) {
   // Код тут.
 };
 
-module.exports = { Person };
+// module.exports = { Person };
